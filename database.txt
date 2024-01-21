@@ -1,0 +1,5 @@
+ 1 juice 60 2
+ 3 onion 20 1
+ 4 salt 10 1
+ 5 chips 10 1
+ 7 rice 2 30
